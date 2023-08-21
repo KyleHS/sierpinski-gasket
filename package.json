@@ -1,0 +1,22 @@
+{
+  "name": "sierpinskigasket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleHS/sierpinski-gasket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyleHS/sierpinski-gasket/issues"
+  },
+  "homepage": "https://github.com/KyleHS/sierpinski-gasket#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
